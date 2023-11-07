@@ -1,4 +1,4 @@
-# Peliprojekti - Tasohyppelu
+# Peliprojekti - Tasohyppely
 
 Tämä on peli, joka on toteutettu C#-kielellä käyttäen Jypeli-kirjastoa. Projekti sisältää yksinkertaisen pelin, jossa pelaajan on väisteltävä esteitä ja pyrittävä päästä maaliin.
 
